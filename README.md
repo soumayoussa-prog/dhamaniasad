@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on:
+
+- [MemoryPlugin](https://www.memoryplugin.com/?ref=github-readme) - Solving the AI Amnesia problem by adding a shared memory layer across ALL your AI tools
+- [AskLibrary](https://www.asklibrary.ai/?ref=github-readme) - Learn faster by talking to your books; get detailed answers backed by citations from your sources and connect ideas across diverse domains
+
+If these look interesting to you, please support my work by checking them out ❤️
